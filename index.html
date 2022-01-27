@@ -1,14 +1,164 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MAYA STORES</title>
 </head>
+<link href="https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+    /* CSS Reset */
+    body {
+        font-family: 'Baloo Bhai', cursive;
+        color: black;
+        margin: 0px;
+        padding: 0px;
+        background: url('img/sunset.jpg');
+    }
+    .mid {
+        display: block;
+        width: 43%;
+        margin: 29px auto;
+         border: 1px solid green; 
+    }
+    .navbar {
+        display: inline-flex;
+    }
+    
+    .navbar li {
+        display: inline-block;
+        font-size: 20px;
+    }
+    .navbar li a {
+        color: rgb(216, 175, 175);
+        text-decoration: none;
+        padding: 30px 10px;
+
+    }
+
+    .navbar li a:hover,.navbar li a.active
+     {
+        text-decoration: underline;
+        color: grey;
+     }
+     .right {
+        position: absolute;
+        right: 34px;
+        top: 35px;
+        display: inline-block;
+         border: 1px solid yellow; 
+    }
+    .btn {
+        font-family: 'Baloo Bhai', cursive;
+        margin: 0px 9px;
+        background-color: rgb(191, 158, 245);
+        color: white;
+        padding: 4px 14px;
+        border: 2px solid grey;
+        border-radius: 10px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    .btn:hover {
+        background-color: grey;
+    }
+    .left {
+        display: inline-block;
+         border: 1px solid red; 
+        position: absolute;
+        left: 60px;
+        top: 20px;
+    }
+
+    .left img {
+        width: 136px;
+        }
+
+    .left div {
+        line-height: 15px;
+        font-size: 26px;
+        text-align: center;
+    }
+    .container {
+        border: 1px solid white;
+        margin: 106px 300px;
+        padding: 75px;
+        width: 40%;
+        border-radius: 28px;
+    }
+
+    .form-group input {
+        font-family: 'Baloo Bhai', cursive;
+        text-align: center;
+        display: block;
+        width: 555px;
+        padding: 1px;
+        border: 2px solid black;
+        margin: 11px auto;
+        font-size: 25px;
+        border-radius: 8px;
+    }
+
+    .container h1 {
+        text-align: center;
+    }
+    .container h2 {
+        text-align: center;
+    }
+
+    .container button {
+        display: block;
+        width: 74%;
+        margin: 20px auto;
+    }
+</style>
+
 <body>
-    <p style="font-size:50px">SAIKAT SADHUKHAN</p>
-    <p style="font-size:30px">IIT2021261</p>
-    <p style="font-size:30px">risingstr6#8075</p>
+    <header class="header">
+        <!-- Left box for logo -->
+        <div class="left">
+            <img src="img/logo.png" alt="">
+            <div>Maya Stores</div>
+        </div>
+        <!-- Mid box for navbar -->
+        <div class="mid">
+            <ul class="navbar">
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Offers going on</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </div>
+
+        <!-- Right box for buttons -->
+        <div class="right">
+            <button class="btn">Wishlist</button>
+            <button class="btn">Buy now</button>
+        </div>
+        
+    </header>
+    <div class="container">
+        <h1>Welcome to the largest grocery shop in Barrackpore</h1>
+        <h2>We provide free home delivery in 3km radius around us </h2>
+        <form action="noaction.php">
+            <div class="form-group">
+                <input type="text" name="" placeholder="Enter your Name">
+            </div>
+            <div class="form-group">
+                <input type="text" name="" placeholder="Enter your Locality(needed for home delivery)">
+            </div>
+            <div class="form-group">
+                <input type="text" name="" placeholder="Enter your Email Id">
+            </div>
+            <div class="form-group">
+                <input type="text" name="" placeholder="Enter your Phone Number">
+            </div>
+            <button class="btn">Submit</button>
+        </form>
+    </div>
 </body>
 </html>
