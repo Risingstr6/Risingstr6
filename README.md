@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/jaydeepxx/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaydeepxx&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/jaydeepxx/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaydeepxx&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
@@ -70,11 +70,10 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sk-sahil-parvez-89a63021b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SKSAHILPARVEZ/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_sk_sp_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/sksahil.parvez.2000/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href = "https://discordapp.com/users/872019831631806476/"><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a> -->
+<a href = "https://www.linkedin.com/in/saikat-sadhukhan-2b6973218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Maddogsquare"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/nostalgicthings6/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
