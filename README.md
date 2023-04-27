@@ -1,19 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jaydeep</h1>
-<h3 align="center">I'm a beginner developer and a UI/UX designer. </h3>
+<h1 align="center">Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Saikat Sadhukhan</h1>
+<h3 align="center">I'm exploring MERN stack and core-JAVA currently. </h3>
 
 ## 🙋‍♂️ About Me
 
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **ReactJS and ExpressJs .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **jaydeepmeena62@gmail.com**
+- 📫 How to reach me **saikatsadhukhan7@gmail.com**
 
-- ⚡ Fun fact **I play games 🎮 and i do watch web series and movies a lot.**
+- ⚡ Fun fact **I love reading, travelling and watching anime.**
 
 ## 🚀 Languages and Tools:
 
